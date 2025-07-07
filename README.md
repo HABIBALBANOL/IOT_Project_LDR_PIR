@@ -7,5 +7,5 @@ This project simulates a smart home automation system using an ESP32 microcontro
 
 .Automatically turns on a light when motion is detected in low-light conditions
 
-.Sends real-time alerts to the cloud when someone is detected in a dark environment
+.Sends real-time alerts to the cloud when someone is detected in a dark environment(adafruit, MQTT)
 
